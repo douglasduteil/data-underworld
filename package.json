@@ -1,0 +1,28 @@
+{
+  "name": "data-underworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./data-underworld.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasduteil/data-underworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasduteil/data-underworld/issues"
+  },
+  "homepage": "https://github.com/douglasduteil/data-underworld#readme",
+  "dependencies": {
+    "diff": "^2.1.0",
+    "lodash": "^3.10.1",
+    "workshopper": "^2.7.0",
+    "workshopper-exercise": "^2.4.0"
+  }
+}
