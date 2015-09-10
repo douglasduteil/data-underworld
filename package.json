@@ -20,8 +20,7 @@
   },
   "homepage": "https://github.com/douglasduteil/data-underworld#readme",
   "dependencies": {
-    "diff": "^2.1.0",
-    "lodash": "^3.10.1",
+    "workshopper-node-default-exports-runner": "^1.0.0",
     "workshopper": "^2.7.0",
     "workshopper-exercise": "^2.4.0"
   }
